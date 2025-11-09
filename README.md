@@ -31,31 +31,30 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white)
 
 
 ---
 
 ## 🌟 Achievements & Experience
 
-- 🏆 **100 Days of Code Challenger** - Selected for Social Summer of Code
-- ☁️ **AWS Certified Cloud Practitioner**
+- 🏆 TCS Codevita S11 Competitive Programming Round 1 Qualifier – Global Rank 2,523 
+- ☁️ Campus Ambassador of GSSoC’24; mentored 15+ contributors
 - 🛠️ Actively contributed to open source and hackathons
-- 🏅 Regular participant in coding challenges (LeetCode, GFG, HackerRank)
-- 🔬 Performed market research for tech companies
+- ⚙️ Regular participant in coding challenges (LeetCode, GFG, HackerRank)
+- 🏅 Ranked among the top 50 teams in the GFG Adobe Hackathon
 
 ---
 
 ## 🏆 Notable Projects
 
-### 🌐 Community Resource Locator
-- Platform to help users find and share local resources
-- An application built by using java, my contribution - Enhancing the user interface and market research .
+### 🌐 E-Meetings Management Platform
+- A platform for efficient team management, task tracking, and meeting scheduling.
+- Enabled secure access and real-time collaboration for streamlined workflows.
 
-### 🤖 ML-Algorithms
-- Collection of core machine learning algorithms
-- Focus on implementation clarity and educational use
-
+### 🤖 Face Recognition & Smart Attendance System
+- Developed an automated attendance system using facial recognition.
+- Ensured real-time identification and accurate attendance recording.
+  
 ---
 
 ## 📈 Coding Profiles
