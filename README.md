@@ -4,7 +4,7 @@
 - 👩‍💻 Final year Computer Science and Engineering student at **VIT Bhopal University**
 - 🛠️ I'm passionate about full-stack development and innovative tech solutions.
 - 💡 100 Days of Code Challenger 
-- 👩‍💻 Passionate about building impactful products and learning new technologies
+- ⚔️ Passionate about building impactful products and learning new technologies
 
 ## 💻 Tech Stack
 
