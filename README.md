@@ -1,14 +1,10 @@
 # Hi there! 👋 I'm Prakriti Chandel
 
----
-
 ## 🎓 About Me
 - 🎓 Final year Computer Science and Engineering student at **VIT Bhopal University**
 - 🛠️ I'm passionate about full-stack development and innovative tech solutions.
 - 💡 100 Days of Code Challenger 
 - 👩‍💻 Passionate about building impactful products and learning new technologies
-
----
 
 ## 💻 Tech Stack
 
@@ -24,16 +20,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ### 🏗️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
----
 
 ## 🌟 Achievements & Experience
 
@@ -42,8 +34,6 @@
 - 🛠️ Actively contributed to open source and hackathons
 - ⚙️ Regular participant in coding challenges (LeetCode, GFG, HackerRank)
 - 🏅 Ranked among the top 50 teams in the GFG Adobe Hackathon
-
----
 
 ## 🏆 Notable Projects
 
@@ -54,8 +44,6 @@
 ### 🤖 Face Recognition & Smart Attendance System
 - Developed an automated attendance system using facial recognition.
 - Ensured real-time identification and accurate attendance recording.
-  
----
 
 ## 📈 Coding Profiles
 
@@ -63,14 +51,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
 
----
-
 ## ♟️ Hobbies & Interests
 
 - Playing Chess
 - Building and customizing projects
-
----
 
 ## 📫 Let's Connect!
 
@@ -79,13 +63,11 @@
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakritiChandel&show_icons=true&theme=radical&hide_border=true" alt="Prakriti's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiChandel&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakritiChandel&show_icons=true&theme=radical" alt="Prakriti's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiChandel&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
