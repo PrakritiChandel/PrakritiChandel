@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakritiChandel&show_icons=true&theme=radical" alt="Prakriti's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiChandel&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakritiChandel&show_icons=true&theme=radical&hide_border=true" alt="Prakriti's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiChandel&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
